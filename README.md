@@ -1,6 +1,13 @@
+# Fork Info
+This is a fork of [Vimix Cursors](https://github.com/vinceliuice/Vimix-cursors) that includes **White cursors** for **Windows**
+
+> Use the `install.inf` file in `.windows/light` to [install](#windows).
+
+
 # Vimix cursors
 This is an x-cursor theme inspired by Materia design and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
@@ -22,7 +29,7 @@ Then set the theme with your preferred desktop tools.
 
 The Windows build comes with an INF file to make installation easy.
 
- 1. Open `.windows/` folder in Explorer, and right click on `install.inf`.
+ 1. Open `.windows/light` or `.windows/dark` folder in Explorer, and right click on `install.inf`.
  1. Click 'Install' from the context menu, and authorise the modifications to your system.
  1. Press the `Windows Key and R` at the same time and type `main.cpl` in the run promt and press `Ok`.
  1. Go to `Pointers` and select `Vimix Cursors` under the Scheme category.
